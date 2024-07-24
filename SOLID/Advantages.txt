@@ -1,0 +1,5 @@
+-> Avoid Duplicate Code
+-> Easy to Maintain
+-> Easy to Understand
+-> Flexible software
+-> Reduce Complexity
